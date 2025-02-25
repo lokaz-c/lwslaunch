@@ -1,4 +1,3 @@
-import Image from "next/image";
 import EmailForm from './components/EmailForm';
 
 export default function Home() {
